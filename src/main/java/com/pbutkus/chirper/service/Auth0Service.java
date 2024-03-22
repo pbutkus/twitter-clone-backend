@@ -9,7 +9,6 @@ import com.auth0.net.Request;
 import com.auth0.net.SignUpRequest;
 import com.auth0.net.TokenRequest;
 import com.pbutkus.chirper.model.request.EmailPasswordAuthRequest;
-import com.pbutkus.chirper.model.response.AuthResponse;
 import com.pbutkus.chirper.model.response.EmailPasswordSignUpResponse;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
